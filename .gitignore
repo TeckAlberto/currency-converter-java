@@ -1,7 +1,18 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+.idea/
+*.iml
+
+# Build
+build/
+
+# Logs
+*.log
+
+# Temporary Files
+*.class
+*.jar
+
 
 ### Eclipse ###
 .apt_generated
