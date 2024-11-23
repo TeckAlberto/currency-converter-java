@@ -6,12 +6,11 @@ import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) throws IOException,InterruptedException {
+    public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 
